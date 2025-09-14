@@ -3,6 +3,47 @@
 ## Description
 This repository contains a collection of C++ programs, ranging from basic examples demonstrating fundamental programming concepts to more complex pattern printing and number conversions. It serves as a learning resource for individuals starting their journey with C++ or those looking for specific code snippets.
 
+
+## 📂 C++ Programs List
+
+| S.No | File Name |
+|------|-----------|
+| 1    | 1. Determine no. is +VE or -VE.cpp |
+| 2    | 2. Determining no. is odd or even.cpp |
+| 3    | 3. Grading system on marks.cpp |
+| 4    | 4. Alphabet determination.cpp |
+| 5    | 5. Number determination-Ternary operator.cpp |
+| 6    | 6.Printing nos in serial.cpp |
+| 7    | 7.Printing 1 to n numbers.cpp |
+| 8    | 8.Print nos using for loop.cpp |
+| 9    | 9. Sum of nos between two.cpp |
+| 10   | 10.Calcuate sum of odd no between two nos.cpp |
+| 11   | 11. Printing numbers using doWhile loop.cpp |
+| 12   | 12. Checking for prime number using bool datatype.cpp |
+| 13   | 13. Getting Factorial of a number.cpp |
+| 14   | 14. pattern (5x10) using nested loop.cpp |
+| 15   | 15. Square pattern problem.cpp |
+| 16   | 16. Square pattern (non-repeating numbers).cpp |
+| 17   | 17. Square pattern problem (Using Alphabets).cpp |
+| 18   | 18. Simple triangle Pattern.cpp |
+| 19   | 19. simple triangle of alphabets.cpp |
+| 20   | 20. Reverse Triangle Problem.cpp |
+| 21   | 21. Floyd's Triangle Pattern.cpp |
+| 22   | 22. Inverted triangle Pattern.cpp |
+| 23   | 23.Pyramid Pattern.cpp |
+| 24   | 24. Hollow Diamond Pattern.cpp |
+| 25   | 25. Butterfly Pattern.cpp |
+| 26   | 26. Sum of digits in a number using function.cpp |
+| 27   | 27. Binomial Factorial Using Functions.cpp |
+| 28   | 28. Decimal to Binary number.cpp |
+| 29   | 29. Binary to Decimal conversion.cpp |
+| 30   | 30. BitWise & operator.cpp |
+| 31   | 30. BitWise &, or, XOr operators.cpp |
+| 32   | 31. Smallest & largest (with index) in an array.cpp |
+| 33   | Singleton_class (voidDeri).cpp |
+| 34   | Virtual (voidDeri).cpp |
+
+
 ## Features and Functionality
 
 This repository showcases the following features:
