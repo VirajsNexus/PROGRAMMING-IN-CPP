@@ -131,4 +131,4 @@ You are free to use, modify, and distribute this software with proper attributio
 
 [![Email](https://img.shields.io/badge/Email-virajjamdhade6@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:virajjamdhade6@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-VirajsNexus-181717?style=for-the-badge&logo=github)](https://github.com/VirajsNexus)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Viraj%20Jamdhade-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viraj-jamdhade-9420/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Viraj%20Jamdhade-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viraj-jamdhade9420/)
