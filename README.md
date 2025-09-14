@@ -122,10 +122,13 @@ Contributions are welcome! Here's how you can contribute:
 
 Please ensure your code adheres to standard C++ coding conventions and includes comments to explain its functionality.
 
-## License Information
+## 📜 License
 
-No license is specified for this repository. All rights are reserved by the repository owner.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).  
+You are free to use, modify, and distribute this software with proper attribution.
 
-## Contact/Support Information
+## 🔗 Connect with Me
 
-For questions, suggestions, or bug reports, please contact Viraj at[virajjamdhade6@gmail.com].
+[![Email](https://img.shields.io/badge/Email-virajjamdhade6@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:virajjamdhade6@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-VirajsNexus-181717?style=for-the-badge&logo=github)](https://github.com/VirajsNexus)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Viraj%20Jamdhade-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viraj-jamdhade-9420/)
